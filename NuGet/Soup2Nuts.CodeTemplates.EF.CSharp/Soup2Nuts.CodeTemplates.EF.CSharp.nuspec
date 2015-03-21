@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Soup2Nuts.CodeTemplates.EF.CSharp</id>
+    <version>1.0.0</version>
+    <title>Soup2Nuts C# Code Templates for EF 6.x Tools for Visual Studio</title>
+    <authors>Tony Sneed</authors>
+    <owners>Tony Sneed</owners>
+    <licenseUrl>https://github.com/tonysneed/Soup2Nuts.CodeTemplates/blob/master/license</licenseUrl>
+    <projectUrl>https://github.com/tonysneed/Soup2Nuts.CodeTemplates</projectUrl>
+    <iconUrl>https://cloud.githubusercontent.com/assets/2836367/6764804/269a1754-cfc3-11e4-9b0a-016460f402c6.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds custom T4 templates used to generate entity classes from a database using EF 6.x Tools for Visual Studio.</description>
+    <language>en-US</language>
+    <tags>entity-framework ef code-generation t4 soup2nuts</tags>
+  </metadata>
+</package>
